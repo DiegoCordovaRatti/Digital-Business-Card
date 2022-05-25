@@ -1,0 +1,39 @@
+.buttons--container{
+    margin: 15px 0 30px 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+.contact-button{
+    width: 115px;
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: transparent;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+}
+.email-button{
+    background-color: #ffffff;
+}
+
+.linkedin-button{
+    background-color: #5093E2;
+}
+.contact-button--text{
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 8px;
+}
+.email-button--text{
+    color: #374151;
+}
+.linkedin-button--text{
+    color: #ffffff;
+}
+.button-logo{
+    width: 16px;
+}

@@ -1,0 +1,12 @@
+footer{
+    background-color: #161619;
+    padding: 20px 0;
+}
+.social-media--link{
+    margin: 0 25px;
+}
+.social-media--logo{
+    width: 25px;
+    filter: brightness(0.7);
+    -webkit-filter: brightness(0.7);
+}

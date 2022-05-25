@@ -1,0 +1,18 @@
+.header-picture{
+    width: 100%;
+}
+.header-title{
+    margin: 24px 0 5px 0;
+    font-size: 25px;
+}
+.header-subtitle{
+    margin: 5px 0 10px 0;
+    color: #F3BF99;
+    font-size: 14px;
+    font-weight: 400;
+}
+.header-link{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 10px;
+}
